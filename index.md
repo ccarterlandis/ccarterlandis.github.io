@@ -1,4 +1,4 @@
-![Profile](https://ccarterlandis.github.com/profile.jpeg)
+![Profile](https://ccarterlandis.github.io/profile.jpeg)
 
 Hi! I'm Carter Landis. I'm a 3rd year computer science student and open source developer interested in digital privacy, data science, cloud computing, and just having way too many keyboard shortcuts.
 
@@ -8,5 +8,8 @@ Find me online:
 - [E-mail](mailto:carter@carterlandis.com): carter (at) carterlandis (dot) com
 - [GitHub](https://github.com/ccarterlandis)
 - [LinkedIn](https://linkedin.com/in/ccarterlandis)
+- [Keybase](https://keybase.io/ccarterlandis)
 - [Resume](https://ccarterlandis.github.com/resume.pdf)
 - [Spotify](https://open.spotify.com/user/c.landis?si=-EeWnQXTTRy28bZgIBCqVA)
+
+_Built with Jekyll and GitHub Pages._

@@ -1,0 +1,60 @@
+ccarterlandis
+Carter Landis
+Earth (for now)
+==================================================================
+https://keybase.io/ccarterlandis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://carterlandis.com
+  * I am ccarterlandis (https://keybase.io/ccarterlandis) on keybase.
+  * I have a public key ASAMZSlDL3fqfmbXuwke8wKmZQsnX9hDkOCgUfxHa8by_go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200c6529432f77ea7e66d7bb091ef302a6650b275fd84390e0a051fc476bc6f2fe0a",
+      "host": "keybase.io",
+      "kid": "01200c6529432f77ea7e66d7bb091ef302a6650b275fd84390e0a051fc476bc6f2fe0a",
+      "uid": "cd768c68f13aba7c4731138f62d37319",
+      "username": "ccarterlandis"
+    },
+    "merkle_root": {
+      "ctime": 1581193076,
+      "hash": "c0e84b4bea5aa6cee5abc2aebc18a44ecd31b21844d03ef63618b21b431e39db48671c56c03076dafcb255309ce510263d28a9101b9aa17d795b76550ef90724",
+      "hash_meta": "554418ae151e9a48d9ee9ccf3a83b643e523a0ea635ce7abeacd59673a3569b5",
+      "seqno": 14537092
+    },
+    "service": {
+      "entropy": "cmtKkY/xNneK5He8pj57VKiF",
+      "hostname": "carterlandis.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1581193083,
+  "expire_in": 504576000,
+  "prev": "d6e95b89607129feb8b3c032bb71883fb5b68e14bf4985c94c6adf8f49b8365c",
+  "seqno": 39,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDGUpQy936n5m17sJHvMCpmULJ1/YQ5DgoFH8R2vG8v4Kp3BheWxvYWTESpcCJ8Qg1ulbiWBxKf64s8Ayu3GIP7W2jhS/SYXJTGrfj0m4NlzEIO98XYlwq5QBrSTdE8rj7vK6Uyik8zzSZQ80b+7oXSw8AgHCo3NpZ8RAvKbD0naU9qWEbdS1ZC3kdJrHASd7GnKVOcifdFCW/9xGvefMzGSaGlywluapxGPI46w+xXDnazNCLDeAo3TOBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE0jIdi2pbSLIJzxkokprFYnPZ5eFQ856mTCkoi562kbo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ccarterlandis
+
+==================================================================
+
