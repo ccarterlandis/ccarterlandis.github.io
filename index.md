@@ -1,3 +1,5 @@
+![Profile](https://ccarterlandis.github.io/profile.jpeg)
+
 Hi! I'm Carter Landis.
 
 <br>
@@ -23,5 +25,7 @@ You can find me elsewhere online:
 - [Keybase](https://keybase.io/ccarterlandis)
 - [Resume](https://ccarterlandis.github.com/resume.pdf)
 - [Spotify](https://open.spotify.com/user/c.landis?si=-EeWnQXTTRy28bZgIBCqVA)
+
+<br>
 
 _Built with Jekyll, GitHub Pages, and a healthy amount of self-reflection._
