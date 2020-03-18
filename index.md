@@ -1,5 +1,7 @@
 ![Profile](https://ccarterlandis.github.io/profile.jpeg)
 
+<br>
+
 Hi! I'm Carter Landis.
 
 <br>
