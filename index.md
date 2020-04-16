@@ -7,7 +7,7 @@ Hi! I'm Carter Landis.
 <br>
 
 I'm a [free/libre](https://www.fsf.org/about/) and [open source](https://opensource.org/docs/osd) software (FOSS) developer interested in data science, cloud technologies, and just having way too many keyboard shortcuts.
-When I'm not at my computer, I enjoy being outside, reading, and finding new music (my most current obsession is Men I Trust's 2019 album _Oncle Jazz_). You can find out more about my professional career 
+When I'm not at my computer, I enjoy being outside, reading, and finding new music (my most current obsession is Men I Trust's 2019 album _Oncle Jazz_).
 
 <br>
 
