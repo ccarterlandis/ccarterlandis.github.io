@@ -6,20 +6,20 @@ Hi! I'm Carter Landis.
 
 <br>
 
-I'm a [free](https://www.fsf.org/about/) (as in free speech, not free beer) and [open source](https://opensource.org/docs/osd) (FOSS) software developer interested in data science, cloud computing, and just having way too many keyboard shortcuts.
-When I'm not at my computer, I enjoy being outside, reading, and finding new music (my current obsession is Tame Impala's _The Slow Rush_).
+I'm a [free/libre](https://www.fsf.org/about/) and [open source](https://opensource.org/docs/osd) software (FOSS) developer interested in data science, cloud technologies, and just having way too many keyboard shortcuts.
+When I'm not at my computer, I enjoy being outside, reading, and finding new music (my most current obsession is Men I Trust's 2019 album _Oncle Jazz_). You can find out more about my professional career 
 
 <br>
 
-Right now, I'm working on [Augur](https://github.com/chaoss/augur), a software plaform for gathering structured trace data about FOSS ecosystems. I also lead the [Evolution Working Group](https://github.com/chaoss/wg-evolution), a FOSS metrics working group focused on the lifecycle of open source projects. Both projects are Community Health Analytics Open Source Software ([CHAOSS](https://chaoss.community)) projects. CHAOSS is a Linux Foundation project focused on creating metrics and software to help define FOSS community health.
+Right now, I'm working on [Augur](https://github.com/chaoss/augur), a software plaform for gathering structured trace data about FOSS ecosystems. I also lead the [Evolution Metrics Working Group](https://github.com/chaoss/wg-evolution), which is focused on developing metrics to measure and analyze the lifecycles of FOSS projects. Both projects are Community Health Analytics Open Source Software ([CHAOSS](https://chaoss.community)) projects. CHAOSS is a Linux Foundation project focused on creating metrics and software to help define FOSS community health.
 
 <br>
 
-While I don't have a lot about myself online, my inbox is always open to any who want to chat, debate, or just have a friendly conversation, especially if you have new music to recommend! 
+If you want to chat, debate, or just have a friendly conversation, feel free to shoot me an email. Thanks for stopping by my little corner of the web! 
 
 <br>
 
-You can find me elsewhere online:
+Find me elsewhere online:
 
 - [E-mail](mailto:c@carterlandis.com): c (at) carterlandis (dot) com
 - [GitHub](https://github.com/ccarterlandis)
