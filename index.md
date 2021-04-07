@@ -1,33 +1,29 @@
-![Profile](https://ccarterlandis.github.io/profile.jpeg)
+![Profile](https://ccarterlandis.github.io/spacefish.jpeg)
 
 <br>
 
-Hi! I'm Carter Landis.
+Heya! I'm Carter, but you may know me as Spacefiish. I'm a [free/libre](https://www.fsf.org/about/) and [open source](https://opensource.org/docs/osd) software developer with way too many keyboard shortcuts. I enjoy any cup of coffee that's at least "okay", befriending cats, wandering around outside, and obsessing over music.
 
 <br>
 
-I'm a [free/libre](https://www.fsf.org/about/) and [open source](https://opensource.org/docs/osd) software (FOSS) developer interested in data science, cloud technologies, and just having way too many keyboard shortcuts.
-When I'm not at my computer, I enjoy being outside, reading, and finding new music (my most current obsession is Men I Trust's 2019 album _Oncle Jazz_).
+I recently graduated with a degree in Computer Science, and now I do data engineering for [Gusto](https://gusto.com) (we're hiring!). Some of my technical interests & areas of expertise include data engineering & data science, networking and server administration, shell scripting and automation, building useful developer experiences, and (get ready for this one) writing thoughtful documentation. Basically, the more time I get to spend in my terminal, the better.
 
 <br>
 
-Right now, I'm working on [Augur](https://github.com/chaoss/augur), a software plaform for gathering structured trace data about FOSS ecosystems. I also lead the [Evolution Metrics Working Group](https://github.com/chaoss/wg-evolution), which is focused on developing metrics to measure and analyze the lifecycles of FOSS projects. Both projects are Community Health Analytics Open Source Software ([CHAOSS](https://chaoss.community)) projects. CHAOSS is a Linux Foundation project focused on creating metrics and software to help define FOSS community health.
+I know there's not much on here right now, but if you want to chat, debate, or just have a friendly conversation, feel free to shoot me an email. Thanks for stopping by, and don't forget to be kind today.
 
 <br>
 
-If you want to chat, debate, or just have a friendly conversation, feel free to shoot me an email. Thanks for stopping by my little corner of the web! 
-
-<br>
-
-Find me elsewhere online:
+I don't use social media, but here's where else you can find me online:
 
 - [E-mail](mailto:c@carterlandis.com): c (at) carterlandis (dot) com
+- Discord: Spacefiish#0835
 - [GitHub](https://github.com/ccarterlandis)
 - [LinkedIn](https://linkedin.com/in/ccarterlandis)
-- [Keybase](https://keybase.io/ccarterlandis)
-- [Resume](https://ccarterlandis.github.com/resume.pdf)
 - [Spotify](https://open.spotify.com/user/c.landis?si=-EeWnQXTTRy28bZgIBCqVA)
 
 <br>
 
-_Built with Jekyll, GitHub Pages, and a healthy amount of self-reflection._
+:wq
+
+_Built with Jekyll, GitHub Pages, and a healthy spoonful of self-reflection._
